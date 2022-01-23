@@ -140,12 +140,13 @@ body{
     height: 120vh;
     background-size: cover;
     position: relative;
+    width: 100%;
 }
 .landing .intro{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-120px,-70px);
+    transform: translate(-150px, -50px);
     text-align: center;
     width: 320px;
     max-width: 100%;
