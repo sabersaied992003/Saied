@@ -288,16 +288,6 @@ body{
     width: 100%;
     height: calc(100% - 35px);
 }
-.about-content .egy::before{
-    content: "";
-    background-color: #fffafa;
-    width: 90px;
-    position: absolute;
-    left: 20px;
-    top: -50px;
-    height: calc(100% + 100px);
-    z-index: -1;
-}
 .about-content .egy::after{
     content: "";
     width: 120px;
